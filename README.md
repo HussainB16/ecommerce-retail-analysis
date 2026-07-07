@@ -35,7 +35,7 @@ of 300,000+ transactions across 5 countries using Python Libraries.
 - Sales Starts strongly in January and has a big dip in february and then Sales has a peak in April and then another peak from June to August and Later Months show significant dip
 
 ## Project Structure
-- `Ecommerce.ipynb` — Main analysis notebook
+- `Ecommerce.ipynb` - Main analysis notebook
 
 ## How to Run
 1. Clone this repository
